@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ini>
+  <lastrequest>6636</lastrequest>
+  <technicians>
+    <amount>5</amount>
+    <technician>Павлов Дмитрий Андреевич</technician>
+    <technician>Муравьев Андрей Владимирович</technician>
+    <technician>Шамилов Дмитрий Васильевич</technician>
+    <technician>Сорокин Владимир Александрович</technician>
+    <technician>Куликов Александр Александрович</technician>
+  </technicians>
+</ini>
